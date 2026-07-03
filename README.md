@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/abhinaylab/Daily-DSA-Problem-/tree/master/0069-sqrtx) |
 | [3620-network-recovery-pathways](https://github.com/abhinaylab/Daily-DSA-Problem-/tree/master/3620-network-recovery-pathways) |
 ## Dynamic Programming
 |  |
@@ -29,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/abhinaylab/Daily-DSA-Problem-/tree/master/3620-network-recovery-pathways) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/abhinaylab/Daily-DSA-Problem-/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
