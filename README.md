@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/abhinaylab/Daily-DSA-Problem-/tree/master/0070-climbing-stairs) |
 | [3620-network-recovery-pathways](https://github.com/abhinaylab/Daily-DSA-Problem-/tree/master/3620-network-recovery-pathways) |
 ## Graph Theory
 |  |
@@ -34,4 +35,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/abhinaylab/Daily-DSA-Problem-/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/abhinaylab/Daily-DSA-Problem-/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/abhinaylab/Daily-DSA-Problem-/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
