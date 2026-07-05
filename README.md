@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/abhinaylab/Daily-DSA-Problem-/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/abhinaylab/Daily-DSA-Problem-/tree/master/3620-network-recovery-pathways) |
 ## Binary Search
 |  |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/abhinaylab/Daily-DSA-Problem-/tree/master/0070-climbing-stairs) |
+| [1301-number-of-paths-with-max-score](https://github.com/abhinaylab/Daily-DSA-Problem-/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/abhinaylab/Daily-DSA-Problem-/tree/master/3620-network-recovery-pathways) |
 ## Graph Theory
 |  |
@@ -40,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/abhinaylab/Daily-DSA-Problem-/tree/master/0070-climbing-stairs) |
+## Matrix
+|  |
+| ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/abhinaylab/Daily-DSA-Problem-/tree/master/1301-number-of-paths-with-max-score) |
 <!---LeetCode Topics End-->
