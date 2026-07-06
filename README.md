@@ -51,4 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/abhinaylab/Daily-DSA-Problem-/tree/master/1288-remove-covered-intervals) |
+## String
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/abhinaylab/Daily-DSA-Problem-/tree/master/0071-simplify-path) |
+## Stack
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/abhinaylab/Daily-DSA-Problem-/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->
